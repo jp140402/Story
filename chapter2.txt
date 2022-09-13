@@ -1,1 +1,1 @@
-this is chapter 2.txt for git learning module
+this is chapter 2.txt for git learning module for alien-plot branch.
